@@ -36,3 +36,9 @@ $RECYCLE.BIN/
 *.pdf
 *.m4a
 *.m4v
+
+# --- Commercially sensitive docs -----------------------------------------------
+# This repository is public. The PRD names lighthouse prospects, pricing posture
+# and competitive strategy — it stays on local disk only. If the repo is ever made
+# private, remove this line and commit it.
+docs/ATITHI_PRD.md
