@@ -1,13 +1,17 @@
 # AtithiVani
 
-Voice-first guest-experience platform for the Himalayan hospitality belt — Darjeeling,
-Kalimpong, Sikkim, the Dooars and Siliguri — operating in Bengali, Hindi and English.
+**Website: [atithivani.com](https://atithivani.com)** · Instagram: [@atithivani](https://www.instagram.com/atithivani/)
 
-The flagship interaction is an AI voice call placed to the guest within 12 hours of
-checkout. Three surfaces sit on top of that: the public site, the property console for
-homestay and hotel owners, and a district view for a tourism department.
+AtithiVani is a guest assistant for hotels and homestays in Darjeeling, Sikkim, Kalimpong
+and the Dooars. Guests use it on their phone in Bengali, Hindi, Nepali or English, and a
+couple of hours after checkout it phones each guest who agreed, on the property's behalf,
+to ask how the stay went.
 
-By SARGVISION INTELLIGENCE.
+The name is one word — Bengali অতিথিবাণী, Hindi अतिथिवाणी, "the guest's voice". It is a
+product of SARGVISION Intelligence Pvt. Ltd.
+
+This repository holds supporting sources for it: Google Apps Script and brand and
+design-system notes.
 
 ## Repository layout
 
@@ -25,8 +29,9 @@ do not re-derive any of it from screenshots or from older collateral.
 See [`docs/design-system.md`](docs/design-system.md) for the pointer, the four theme
 names and the rules that are easiest to get wrong.
 
-> **⚠ The name is not trademark-cleared.** Other businesses have traded as AtithiVani in
-> Indian hospitality since 2025 and earlier. Classes 39, 42 and 43 must be cleared before
+> **⚠ The name is not trademark-cleared.** The bare word "Atithi" is crowded in Indian
+> hospitality (AtithiAI, My Atithi Hotels & Resorts, Atithi Cloud, CBIC's ATITHI app). The
+> compound AtithiVani should clear past them, but Classes 39, 42 and 43 must be cleared before
 > any signage, filing or irreversible brand spend. See `docs/design-system.md`.
 
 ## Conventions

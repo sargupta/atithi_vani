@@ -166,8 +166,11 @@ Signature patterns worth knowing before you build anything:
 
 The name is **not** trademark-cleared.
 
-- AtithiVaniAI (Balaji Apex Technologies Pvt. Ltd.) has operated in Indian hospitality
+The bare word "Atithi" is crowded in Indian hospitality. The compound AtithiVani should clear
+past these, but that needs a trademark attorney's confirmation:
+
+- AtithiAI (Balaji Apex Technologies Pvt. Ltd.) has operated in Indian hospitality
   since July 2025.
-- My AtithiVani Hotels & Resorts has traded under the name in Kerala for years.
+- My Atithi Hotels & Resorts has traded under that name in Kerala for years.
 
 **Clear Classes 39, 42 and 43 before committing to signage or a filing.**
