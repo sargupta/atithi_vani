@@ -3,9 +3,9 @@
 **Website: [atithivani.com](https://atithivani.com)** · Instagram: [@atithivani](https://www.instagram.com/atithivani/)
 
 AtithiVani is a guest assistant for hotels and homestays in Darjeeling, Sikkim, Kalimpong
-and the Dooars. Guests use it on their phone in Bengali, Hindi, Nepali or English, and a
-couple of hours after checkout it phones each guest who agreed, on the property's behalf,
-to ask how the stay went.
+and the Dooars. Guests use it on their phone in Bengali, Hindi or English, and can also
+chat in Nepali. A couple of hours after checkout, it phones each guest who agreed, on the
+property's behalf, to ask how the stay went.
 
 The name is one word — Bengali অতিথিবাণী, Hindi अतिथिवाणी, "the guest's voice". It is a
 product of SARGVISION Intelligence Pvt. Ltd.
